@@ -2,3 +2,4 @@
 import tom
 
 if __name__ == "__main__":
+    tom.__ApV__()
